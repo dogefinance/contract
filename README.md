@@ -32,10 +32,6 @@ VERIFIED CONTRACT : https://bscscan.com/token/0x6f85c8d212d4cec5bcfad50a1c35effb
 
 🔸 10% Team
 
-🔸 SoftCap: 750 BNB
-
-🔸 HardCap: 1500 BNB
-
 🔸 Presale Start time: June 10, 2021 05:00 until June 30, 2021 05:00
 
 # Website and Social Media
