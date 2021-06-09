@@ -26,9 +26,9 @@ VERIFIED CONTRACT : https://bscscan.com/token/0x7ff8377115b89c0138f55cf1234806fe
 
 🔸 10 % Reward
 
-🔸 50% Liquidity
+🔸 30% Liquidity
 
-🔸 30% Burn
+🔸 50% Burn
 
 🔸 10% Team
 
