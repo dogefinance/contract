@@ -18,7 +18,7 @@ VERIFIED CONTRACT : https://bscscan.com/token/0x961bf8550fe941d34115a5246e01c057
 
 🔸 Symbol : DFI
 
-🔸 Supply: 100,000,000,000 DFI
+🔸 Supply: 1,000,000,000 DFI
 
 🔸 Ownership: Renounce after successful pre-sale
 
