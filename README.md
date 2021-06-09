@@ -1,16 +1,16 @@
 # Doge.Finance smartcontract 🚀
 
-dogefinance.info smart contract address 0x961bf8550fe941d34115a5246e01c057870f623a
+dogefinance.info smart contract address 0x7ff8377115b89c0138f55cf1234806fe5e727eeb
 
 # Explorer
 
-https://bscscan.com/token/0x961bf8550fe941d34115a5246e01c057870f623a
+https://bscscan.com/token/0x7ff8377115b89c0138f55cf1234806fe5e727eeb
 
 # Tokenomic
 
 The Doge.Finance Team is dedicated into creating its own version of doge. The Doge.Finance is a community-driven DeFi + NFT marketplace.
 
-VERIFIED CONTRACT : https://bscscan.com/token/0x961bf8550fe941d34115a5246e01c057870f623a
+VERIFIED CONTRACT : https://bscscan.com/token/0x7ff8377115b89c0138f55cf1234806fe5e727eeb
 
 ‼️ DOGE.FINANCE IN WORLD ‼️
 
@@ -60,13 +60,13 @@ STAY TUNED!!!!
 
 # PANCAKESWAP (V2)
 
-https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x961bf8550fe941d34115a5246e01c057870f623a
+https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x7ff8377115b89c0138f55cf1234806fe5e727eeb
 
 # CHART
 
-Bogged.Finance : https://charts.bogged.finance/?token=0x961bf8550fe941d34115a5246e01c057870f623a
+Bogged.Finance : https://charts.bogged.finance/?token=0x7ff8377115b89c0138f55cf1234806fe5e727eeb
 
-Poocoin : https://poocoin.app/tokens/0x961bf8550fe941d34115a5246e01c057870f623a
+Poocoin : https://poocoin.app/tokens/0x7ff8377115b89c0138f55cf1234806fe5e727eeb
 
 # Hot News
 
